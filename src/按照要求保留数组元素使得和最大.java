@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.util.*;
 
-class GFG {
+class 按照要求保留数组元素使得和最大 {
     public static void main(String[] args) {
         int i;
         Scanner in = new Scanner(System.in);

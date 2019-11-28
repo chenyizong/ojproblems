@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e15e024-4860-422d-8c87-e698df115f66" name="Default Changelist" comment="oj" />
+    <list default="true" id="2e15e024-4860-422d-8c87-e698df115f66" name="Default Changelist" comment="oj">
+      <change afterPath="$PROJECT_DIR$/src/时间与收益.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/时间分隔.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/硬币最小数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/管道网络.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +16,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/硬币最小数量.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/时间与收益.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="708">
+              <caret line="110" column="1" lean-forward="true" selection-start-line="32" selection-end-line="110" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/管道网络.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="708">
+              <caret line="129" lean-forward="true" selection-start-line="35" selection-end-line="129" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/时间分隔.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="74" column="1" lean-forward="true" selection-start-line="35" selection-end-line="74" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,10 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/冒泡排序.java" />
-        <option value="$PROJECT_DIR$/src/oj2_6.java" />
-        <option value="$PROJECT_DIR$/src/计数排序.java" />
-        <option value="$PROJECT_DIR$/src/oj2_7.java" />
         <option value="$PROJECT_DIR$/src/非递归快排.java" />
         <option value="$PROJECT_DIR$/src/onine1.java" />
         <option value="$PROJECT_DIR$/src/数学公式.java" />
@@ -76,6 +131,10 @@
         <option value="$PROJECT_DIR$/src/非递归合并排序.java" />
         <option value="$PROJECT_DIR$/src/倒置个数.java" />
         <option value="$PROJECT_DIR$/src/KD树构造和查找.java" />
+        <option value="$PROJECT_DIR$/src/时间分隔.java" />
+        <option value="$PROJECT_DIR$/src/硬币最小数量.java" />
+        <option value="$PROJECT_DIR$/src/时间与收益.java" />
+        <option value="$PROJECT_DIR$/src/管道网络.java" />
       </list>
     </option>
   </component>
@@ -97,8 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,12 +172,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574866057429" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574913988858" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -151,6 +210,13 @@
     </configuration>
     <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sample" />
+      <module name="ojproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="无限递归字符串查询" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="无限递归字符串查询" />
       <module name="ojproject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -212,13 +278,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="无限递归字符串查询" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="无限递归字符串查询" />
-      <module name="ojproject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="动态规划_数组查询" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="动态规划_数组查询" />
       <module name="ojproject" />
@@ -265,6 +324,7 @@
       <workItem from="1574691458240" duration="65000" />
       <workItem from="1574693722748" duration="5794000" />
       <workItem from="1574862954415" duration="3082000" />
+      <workItem from="1574866456730" duration="2634000" />
     </task>
     <task id="LOCAL-00001" summary="oj">
       <created>1574337648407</created>
@@ -284,7 +344,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136415000" />
+    <option name="totallyTimeSpent" value="139049000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,8 +357,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48034188" visible="true" weight="0.33088234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48034188" visible="true" weight="0.33529413" />
       <window_info id="Structure" order="1" sideWeight="0.51965815" side_tool="true" weight="0.32647058" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -338,46 +399,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="oj" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/插入排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/冒泡排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/计数排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/非递归快排.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/数学公式.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -539,13 +560,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/online2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/online2.java" />
     <entry file="file://$PROJECT_DIR$/src/牛的繁殖问题.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -557,20 +572,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/online3.java" />
-    <entry file="file://$PROJECT_DIR$/src/online2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/online2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/online2_2.java" />
+    <entry file="file://$PROJECT_DIR$/src/online2_1.java" />
     <entry file="file://$PROJECT_DIR$/src/订单问题.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="708">
@@ -811,6 +814,50 @@
             <element signature="imports" expanded="true" />
             <element signature="e#5849#5850#0" expanded="true" />
             <element signature="e#5936#5937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/管道网络.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="129" lean-forward="true" selection-start-line="35" selection-end-line="129" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/时间分隔.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="74" column="1" lean-forward="true" selection-start-line="35" selection-end-line="74" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/时间与收益.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="110" column="1" lean-forward="true" selection-start-line="32" selection-end-line="110" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/硬币最小数量.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
